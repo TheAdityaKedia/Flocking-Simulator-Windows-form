@@ -1,2 +1,2 @@
-# Flocking-Simulator-Windows-form
-A demonstration of flocking behavior in distributed robotic systems using windows form in C#
+# Simulation of Distributed Robot flocking using a Windows Form
+This project presents a simulator for flocking behavior in a system of distributed agents, using a Windows Form app. The ultimate goal of this project is to create a generalized distributed robotics simulator that could allow researchers to study several distributed behaviors with minimal coding. To learn more about the goals of this project, see the included paper (PDF). A more explanatory version of this system is presented here using an iPython notebook.
