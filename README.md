@@ -1,2 +1,3 @@
 # Simulation of Distributed Robot flocking using a Windows Form
+This project was done as a capsotne project for Duke's Introduction to Scientific Computing (ME: 555) course in Fall 2017.
 This project presents a simulator for flocking behavior in a system of distributed agents, using a Windows Form app. The ultimate goal of this project is to create a generalized distributed robotics simulator that could allow researchers to study several distributed behaviors with minimal coding. To learn more about the goals of this project, see the included paper (PDF). A more explanatory version of this system is presented [here using a Jupyter notebook](https://github.com/TheAdityaKedia/Flocking-Simulator-Python).
